@@ -1,15 +1,15 @@
 # faiss_train_insert
 
-[] - obtaining embeddings
+- [ ] obtaining embeddings
 
-[] - training on GPU
+- [ ] training on GPU
 
-[] - training on CPU
+- [ ] training on CPU
 
-[] - search with CPU
+- [ ] search with CPU
 
-[] - search with GPU
+- [ ] search with GPU
 
-[] - connecting outputs with postgresdb
+- [ ] connecting outputs with postgresdb
 
-[] - statistics charts
+- [ ] statistics charts
